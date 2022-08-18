@@ -19,7 +19,7 @@ I had fun making this even though I am pretty sure I could use some coaching on 
 
 ### Screenshot
 
-![](./screenshot.png)
+![](screenshot.png)
 
 ### Links
 
