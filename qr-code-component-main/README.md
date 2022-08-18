@@ -19,12 +19,11 @@ I had fun making this even though I am pretty sure I could use some coaching on 
 
 ### Screenshot
 
-![](screenshot.png)
+![](./images/Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [QR Component Solution](https://github.com/TomoFromEarth/qr-code-component)
 
 ## My process
 
